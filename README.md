@@ -11,6 +11,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Network Topology](https://procodermega.blogspot.com/2021/03/network-topology.html)
+- [Basic terms to know in Computer Networking](https://procodermega.blogspot.com/2021/01/basic-terms-to-know-in-computer.html)
+- [DDL, DQL, DML, DCL and TCL Commands in MYSQL](https://procodermega.blogspot.com/2020/09/ddl-dql-dml-dcl-and-tcl-commands-in.html)
+- [Conditional Statements in Python](https://procodermega.blogspot.com/2020/09/conditional-statements-in-python.html)
+- [Basics of DBMS](https://procodermega.blogspot.com/2020/08/basics-of-dbms.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
