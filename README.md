@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://procodermega.blogspot.com](https://procodermega.blogspot.com)
 
-# Blog posts
+# Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Network Topology](https://procodermega.blogspot.com/2021/03/network-topology.html)
 - [Basic terms to know in Computer Networking](https://procodermega.blogspot.com/2021/01/basic-terms-to-know-in-computer.html)
