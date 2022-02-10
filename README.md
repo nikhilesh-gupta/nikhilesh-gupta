@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 👋, I'm Nikhilesh Gupta</h1>
+<h1 align="center">Hello everyone 👋, I'm Nikhilesh</h1>
 <h3 align="center">A CyberSecurity and DevSecOps enthusiast who believes DevSecOps is the way of the future.</h3>
 
 - 🌱 I’m currently learning **various DevOps tools, Web Application Security and Cloud Security**
