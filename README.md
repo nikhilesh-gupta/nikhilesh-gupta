@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_nikhileshgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nikhileshgupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhileshgupta20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhileshgupta20" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iNikhileshGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhileshgupta20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikhilesh_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilesh_g" height="30" width="40" /></a>
 <a href="https://discord.gg/mYM353qDEx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mYM353qDEx" height="30" width="40" /></a>
 </p>
